@@ -1,4 +1,4 @@
-#### Name: MONISH N
+#### Name: MONISH N 
 #### Register Number: 212223240097
 # EXPERIMENT 04: INTERFACING AN16X2 LCD DISPLAY WITH ARM AND DISPLAY STRING
  ## Aim: To Interface a 16X2 LCD display to ARM controller  , and simulate it in Proteus 
